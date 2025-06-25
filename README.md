@@ -180,6 +180,9 @@ Os clientes estão localizados em `src/main/java/at/client/etapa3/`.
     ./gradlew run --args="at.client.etapa3.GetStatusClient"
     ```
 
+## Screenshots
+
+Screenshots da execução da API, dos testes e dos clientes podem ser encontradas na pasta `docs/img/`.
 
 ---
 **Desenvolvido por:** Hebert Victor Bicalho de Almeida
